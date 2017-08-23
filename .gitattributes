@@ -1,0 +1,2 @@
+# Regardless of wacky git setting, keep carriage returns out of shell files
+*.sh text eol=lf
